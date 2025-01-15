@@ -7,3 +7,8 @@ So as of today 14-January 2025, I've completed the eJPT certification and many r
 I learned how to do version control using git. 
 Also completed the "Lay of the Land" room on tryhackme: https://tryhackme.com/r/room/thelayoftheland consisting of common technologies and security products used in corporate enviornments.
 
+#15-01-25
+Today I digged deeper in to the core windows processes such as:
+csrss.exe, wininit.exe, services.exe, svchost.exe, lsass.exe, winlogon.exe, explorer.exe  https://tryhackme.com/r/room/btwindowsinternals
+
+
