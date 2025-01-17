@@ -11,4 +11,9 @@ Also completed the "Lay of the Land" room on tryhackme: https://tryhackme.com/r/
 Today I digged deeper in to the core windows processes such as:
 csrss.exe, wininit.exe, services.exe, svchost.exe, lsass.exe, winlogon.exe, explorer.exe  https://tryhackme.com/r/room/btwindowsinternals
 
+#16-01-25
+Some broken access control exploit practice 
+
+#17-01-25
+Very busy day and very much tired. Still did spend some time with basic javascript and how to exploit it.
 
