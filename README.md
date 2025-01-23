@@ -17,3 +17,5 @@ Some broken access control exploit practice
 #17-01-25
 Very busy day and very much tired. Still did spend some time with basic javascript and how to exploit it.
 
+#18 to 22-01-25
+Was very sick & didn't remeber to update this. 
