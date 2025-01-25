@@ -19,3 +19,9 @@ Very busy day and very much tired. Still did spend some time with basic javascri
 
 #18 to 22-01-25
 Was very sick & didn't remeber to update this. 
+
+#24-01-25
+Started collecting tools for bug bounty
+
+#25-01-25
+Started recon on a famous target
