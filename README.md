@@ -25,3 +25,6 @@ Started collecting tools for bug bounty
 
 #25-01-25
 Started recon on a famous target
+
+#26-01-25
+Completed tryhackme "Smol" box : https://tryhackme.com/r/room/smol
