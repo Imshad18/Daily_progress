@@ -28,3 +28,9 @@ Started recon on a famous target
 
 #26-01-25
 Completed tryhackme "Smol" box : https://tryhackme.com/r/room/smol
+
+#29-01-25
+Great day, learned SQL to better understand & exploit SQL Injection vuln.
+
+#30-01-25
+Started to master Wireshark by going through basic and advanced Wireshark rooms on tryhackme
