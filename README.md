@@ -34,3 +34,8 @@ Great day, learned SQL to better understand & exploit SQL Injection vuln.
 
 #30-01-25
 Started to master Wireshark by going through basic and advanced Wireshark rooms on tryhackme
+
+#31-01-25
+Learned about various tools that MITRE has provided,
+Solved a Blue team CTF (enjoyed it)
+Also my rank now is 10108 on tryhackme 
