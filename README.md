@@ -39,3 +39,8 @@ Started to master Wireshark by going through basic and advanced Wireshark rooms 
 Learned about various tools that MITRE has provided,
 Solved a Blue team CTF (enjoyed it)
 Also my rank now is 10108 on tryhackme 
+
+#1-2-25
+Finally in the top 10k on TryHackMe
+Learned about awesome malware analysis tools like Abuse.ch (a whole suite of awesome platforms), PhishTool, Cisco Talos Intelligence 🔥 
+And hands on lab to analyze and triage 3 suspicious email attachments.
