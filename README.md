@@ -44,3 +44,6 @@ Also my rank now is 10108 on tryhackme
 Finally in the top 10k on TryHackMe
 Learned about awesome malware analysis tools like Abuse.ch (a whole suite of awesome platforms), PhishTool, Cisco Talos Intelligence 🔥 
 And hands on lab to analyze and triage 3 suspicious email attachments.
+
+#5-2-25
+Qualified for private invitations on hackerone.com
