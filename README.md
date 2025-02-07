@@ -47,3 +47,6 @@ And hands on lab to analyze and triage 3 suspicious email attachments.
 
 #5-2-25
 Qualified for private invitations on hackerone.com
+
+#7-2-25
+Started Wreath network on tryhackme
