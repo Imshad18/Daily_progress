@@ -50,3 +50,6 @@ Qualified for private invitations on hackerone.com
 
 #7-2-25
 Started Wreath network on tryhackme
+
+#8-2-25
+Today I get in the top 9000 globally on TryHackMe
