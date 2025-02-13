@@ -56,3 +56,6 @@ Today I get in the top 9000 globally on TryHackMe
 
 ##11-2-25
 Today I enter in the top 800 in India on TryHackMe, global ranking 8296
+
+#13-2-25
+Now in the top 8000 worldwide on TryHackMe, Rank: 7551
