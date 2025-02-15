@@ -62,3 +62,6 @@ Now in the top 8000 worldwide on TryHackMe, Rank: 7551
 
 #14-2-25
 Did a couple of CTFs on tryhackme, now my rank is 7200
+
+#15-2-25
+Trying to find a bug on a famous service, going through the system
