@@ -68,3 +68,6 @@ Trying to find a bug on a famous service, going through the system
 
 #17-2-25 
 Today I am in the top 7000 worldwide on TryHackMe , rank 6970
+
+#19-2-25
+Crossed 30000 points today on tryhackme and also found https://www.bugbountyhunter.com/ and practiced some bug bounty training
