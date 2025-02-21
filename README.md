@@ -71,3 +71,6 @@ Today I am in the top 7000 worldwide on TryHackMe , rank 6970
 
 #19-2-25
 Crossed 30000 points today on tryhackme and also found https://www.bugbountyhunter.com/ and practiced some bug bounty training
+
+#21-2-25
+Submitted a bug report to google. hoping for the best
