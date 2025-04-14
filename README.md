@@ -83,3 +83,6 @@ Its the blessed month of Ramadan, little slow on learning till March end.
 
 #27-03-25
 Today I am in top 6000 worldwide on tryhackme
+
+14-04-25
+Submitted 3 reports to 2 bug bounty program. Waiting for reply
