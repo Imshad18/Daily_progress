@@ -86,3 +86,6 @@ Today I am in top 6000 worldwide on tryhackme
 
 14-04-25
 Submitted 3 reports to 2 bug bounty program. Waiting for reply
+
+17-04-25
+For the first time I found XSS in the wild!
